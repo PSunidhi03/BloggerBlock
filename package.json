@@ -1,0 +1,16 @@
+{
+  "name": "bloggerblock",
+  "version": "1.0.0",
+  "description": "Blog site where you can blog Join us and blog till you become a Blogaa'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4",
+    "nodemon": "^3.1.4"
+  }
+}
